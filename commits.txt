@@ -1,0 +1,17 @@
+commit 6e90cb45c9effe0a0f970b03568df11af5dc9ea6
+Author: Miguel Cs <progeek993@gmail.com>
+Date:   Tue Apr 11 18:15:28 2017 -0400
+
+    Agregndo styles de footer
+
+commit c6c5a2894f7533138a9434860c9a131a87e5ec53
+Author: Miguel Cs <progeek993@gmail.com>
+Date:   Tue Apr 11 18:07:21 2017 -0400
+
+    Agregado el Footer sin styles
+
+commit 5bce5b58a631d039078eb3eb2528e1b5f15ce728
+Author: Miguel Cs <progeek993@gmail.com>
+Date:   Tue Apr 11 18:02:03 2017 -0400
+
+    Archivos Base
